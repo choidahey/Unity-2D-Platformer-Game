@@ -1,9 +1,8 @@
-# Unity-2D-Platformer-Game
+# 🏜️Find the twilight
 
 
-✔️ Untiy 엔진을 사용해 2D 플랫포머 게임 제작
-
-✔️ Unity Editer version => 2020.3.0f1
-
-✔️ 사용한 배경 => Unity Asset Store
+✔️ OS => Windows 11</br>
+✔️ Tool => Unity 3D</br>
+✔️ Unity Editer version => 2020.3.0f1</br>
+✔️ Used Assets => Unity Asset Store</br>
 
